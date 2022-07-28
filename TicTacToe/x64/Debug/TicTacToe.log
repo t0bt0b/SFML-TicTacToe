@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\rato\Desktop\BACKUP\TicTacToe\TicTacToe\main.cpp(7,46): warning C4244: "Argument": Konvertierung von "T" in "float", möglicher Datenverlust
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\rato\Desktop\BACKUP\TicTacToe\TicTacToe\main.cpp(7,28): warning C4244: "Argument": Konvertierung von "T" in "float", möglicher Datenverlust
+          with
+          [
+              T=unsigned int
+          ]
+  ttt.cpp
+  Code wird generiert...
+  TicTacToe.vcxproj -> C:\Users\rato\Desktop\BACKUP\TicTacToe\x64\Debug\TicTacToe.exe
